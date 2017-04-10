@@ -19,4 +19,4 @@ A module for [unu](https://u.nu/) in Python3
 
         unu(url="https://vcinex.com", action="shorturl", format="simple",keyword="")
 
-Only Variable "url" is necessary.
+Only variable "url" is necessary.
