@@ -3,14 +3,18 @@
 
 A module for [unu](https://u.nu/) in Python  
 
-## Install :
+## Request
+
+        pip install requests
+
+## Install
 
         pip install unu -i https://pypi.python.org/simple --trusted-host pypi.python.org  
         
-## Import :
+## Import
 
        from unu import unu  
 
-## Use:
+## Use
 
     unu(url="https://vcinex.com", action="shorturl", format="simple",keyword="")
