@@ -18,3 +18,5 @@ A module for [unu](https://u.nu/) in Python
 ## Use
 
     unu(url="https://vcinex.com", action="shorturl", format="simple",keyword="")
+
+Only Variable "url" is necessary.
