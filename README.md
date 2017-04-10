@@ -1,7 +1,7 @@
 
 # unu
 
-A module for [unu](https://u.nu/) in Python  
+A module for [unu](https://u.nu/) in Python3  
 
 ## Request
 
